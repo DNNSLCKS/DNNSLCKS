@@ -14,7 +14,7 @@
 
 ## 👋 Über mich
 
-Hey, ich bin **DNNSLCKS** (he/his) – ein leidenschaftlicher Developer, der gerne die Grenzen von Technologie auslotet. Ich bin lustig, ein Perfektionist und fahre einen Tesla. Außerdem bin ich großer **Juniper Premium** Fan! 🎮⚡
+Hey, ich bin **DNNSLCKS** (he/his) – ein leidenschaftlicher Developer, der gerne die Grenzen von Technologie auslotet. Ich bin lustig, ein Perfektionist und fahre mit Strom⚡
 
 ---
 
@@ -112,7 +112,6 @@ Hey, ich bin **DNNSLCKS** (he/his) – ein leidenschaftlicher Developer, der ger
 | 😄 **Persönlichkeit** | Lustig & Perfektionist – Manchmal ein chaotischer Genie 🤪 |
 | 🚗 **Fahrzeug** | Tesla Fahrer – Elektrisch, schnell und futuristisch! ⚡ |
 | 🎮 **Gaming** | **Xbox Gamertag:** `DNNSLCKS` – Komm und beat mich, wenn du kannst! |
-| 🎵 **Streaming** | Juniper Premium Subscriber – Premium vibes überall 🎧 |
 | 💻 **Motto** | "Code, der fliegt – Hardware, die lacht" 🚀 |
 
 ---
@@ -120,8 +119,6 @@ Hey, ich bin **DNNSLCKS** (he/his) – ein leidenschaftlicher Developer, der ger
 ## 📫 Kontakt & Vernetzung
 
 <div align="center">
-
-📧 **Email:** [Kontaktiere mich](mailto:contact@example.com)
 
 🎮 **Xbox:** `DNNSLCKS`
 
