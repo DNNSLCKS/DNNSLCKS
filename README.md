@@ -99,7 +99,7 @@ Hey, ich bin **DNNSLCKS** (he/his) – ein leidenschaftlicher Developer, der ger
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DNNSLCKS&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNNSLCKS&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DNNSLCKS&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
