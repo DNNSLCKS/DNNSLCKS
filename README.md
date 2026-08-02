@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=PC-Dominator+Builder;RAG-System+Engineer;KI-Agenten+Entwickler;Python+%26+Industrieautomation)](https://github.com/DNNSLCKS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=66C0F4&center=true&vCenter=true&width=650&lines=PC-Dominator+Builder;RAG-System+Engineer;KI-Agenten+Entwickler;Python+%26+Industrieautomation)](https://github.com/DNNSLCKS)
 
 **Baue Hochleistungs-PCs, KI-Systeme und Code, der die Welt verändert** 🔥
 
-[![GitHub](https://img.shields.io/badge/GitHub-DNNSLCKS-181717?style=for-the-badge&logo=github)](https://github.com/DNNSLCKS)
+[![GitHub](https://img.shields.io/badge/GitHub-DNNSLCKS-171a21?style=for-the-badge&logo=github&logoColor=66c0f4)](https://github.com/DNNSLCKS)
 [![Xbox](https://img.shields.io/badge/Xbox-DNNSLCKS-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/)
-![Profil-Aufrufe](https://komarev.com/ghpvc/?username=DNNSLCKS&color=22c55e&style=for-the-badge&label=Profil-Aufrufe)
+![Profil-Aufrufe](https://komarev.com/ghpvc/?username=DNNSLCKS&color=66c0f4&style=for-the-badge&label=Profil-Aufrufe)
 
 </div>
 
@@ -60,11 +60,21 @@ Hey, ich bin **DNNSLCKS** (he/him) – ein leidenschaftlicher Developer, der ger
 
 <div align="center">
 
-![DNNSLCKS' GitHub Stats](https://github-readme-stats.vercel.app/api?username=DNNSLCKS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![DNNSLCKS' GitHub Stats](https://github-readme-stats.vercel.app/api?username=DNNSLCKS&show_icons=true&hide_border=true&count_private=true&bg_color=1b2838&title_color=66c0f4&text_color=c7d5e0&icon_color=66c0f4)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DNNSLCKS&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DNNSLCKS&hide_border=true&background=1b2838&stroke=2a475e&ring=66c0f4&fire=66c0f4&currStreakNum=c7d5e0&currStreakLabel=66c0f4&sideNums=c7d5e0&sideLabels=c7d5e0&dates=8f98a0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNNSLCKS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNNSLCKS&layout=compact&hide_border=true&langs_count=8&bg_color=1b2838&title_color=66c0f4&text_color=c7d5e0)
+
+</div>
+
+---
+
+## 🐍 Contribution-Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/DNNSLCKS/DNNSLCKS/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -140,7 +150,7 @@ Ich bin interessiert an:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DNNSLCKS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DNNSLCKS&theme=algolia&no-frame=true&margin-w=4&row=1)
 
 ⭐ *Wenn dir mein Profil gefällt, gib mir einen Star!* ⭐
 
