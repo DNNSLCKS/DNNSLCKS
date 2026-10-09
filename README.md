@@ -43,7 +43,6 @@ Hey, ich bin **DNNSLCKS** (he/him) – ein leidenschaftlicher Developer, der ger
 ┌─ PC-DOMINATOR ─────────────────────────────
 │  Status ............ ONLINE ✅
 │  Build-Fortschritt . [████████████████] 100%
-│  Geilheits-Faktor .. [████████████████] 110%
 │  Lüfter-Sound ...... Musik in meinen Ohren 🎵
 └─ Ausreden zum Upgraden ... ich find schon eine 😏
 ```
