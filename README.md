@@ -18,7 +18,7 @@
 
 Hey, ich bin **DNNSLCKS** (he/him) – ein leidenschaftlicher Developer, der gerne die Grenzen von Technologie auslotet. Ich bin lustig, ein Perfektionist und fahre mit Strom ⚡
 
-- 🏁 **PC-Dominator ist FERTIG!** – mein High-End Gaming-/Coding-/KI-Rig läuft, und ja: er ist so geil, wie er klingt 😎
+- 🏁 **PC-Dominator ist FERTIG!** – mein High-End Gaming-/Coding-/KI-Rig läuft
 - 🖨️ Neue Mission: **3D-Druck** – Schicht für Schicht vom CAD-Modell zum echten Teil
 - 🌱 Ich vertiefe **Python**, **KI/ML** und **Industrieautomation (TIA / SPS)**
 - 🤖 Ich liebe **KI-Agenten**, die reale Systeme *sicher* steuern
@@ -186,8 +186,6 @@ Ich bin interessiert an:
 - 🏭 Industrial-Automation-Lösungen
 - 💬 Open-Source-Contributions
 - 🎯 innovativen Coding-Challenges
-
-**Schreib mir, wenn du an einem coolen Projekt arbeitest!** 🚀
 
 ---
 
