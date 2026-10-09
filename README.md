@@ -48,8 +48,6 @@ Hey, ich bin **DNNSLCKS** (he/him) – ein leidenschaftlicher Developer, der ger
 └─ Ausreden zum Upgraden ... ich find schon eine 😏
 ```
 
-> *„Andere haben einen PC. Ich hab einen Dominator."* 😃
-
 Gaming, Coding, KI – egal was ich ihm hinwerfe, er frühstückt es. Ab jetzt wird nicht mehr gebaut, sondern **benutzt**. 🚀
 
 ---
